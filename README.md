@@ -56,8 +56,8 @@ Best RMSE from KFold:
 
 ### Addressing the 'Cold Start Problem'
 
-<p>**ASSUMPTION**</p>
-Most Popular = Most Rated
+**ASSUMPTION**
+<p>Most Popular = Most Rated</p>
 
 <p>The Cold Start Problem '... concerns the issue that the system cannot draw any inferences for users or items about which it has not yet gathered sufficient information.'(Wikipedia)</p>
 
@@ -65,7 +65,8 @@ Most Popular = Most Rated
 
 ### Prototype Demo
 
-<a href="{https://youtu.be/mOfCqTl6sL0}" title="Link Title">
+<a href="{https://youtu.be/mOfCqTl6sL0}" title="Link Title"></a>
+
 ---------------------------------------------------------------
 
 # Going Forward
