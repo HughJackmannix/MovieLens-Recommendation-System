@@ -65,7 +65,7 @@ Best RMSE from KFold:
 
 ### Prototype Demo
 
-[Demo Video]<a href=https://youtu.be/mOfCqTl6sL0></a>
+[Demo Video](https://youtu.be/mOfCqTl6sL0)
 
 ---------------------------------------------------------------
 
